@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Router v6 where a catch-all route (`*`) unintentionally overrides other, more specific routes. The `bug.js` file shows the problematic code, while `bugSolution.js` provides the corrected implementation.
